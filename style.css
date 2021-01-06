@@ -1,0 +1,111 @@
+
+.top-banner{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+.about-area{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+h1{
+    font-size : 80px;
+    font-weight :normal;
+    color : #364958;
+    line-height : 20px;
+    font-family: 'Bebas Neue', cursive;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    font-weight:lighter;
+    color: #363958;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size :30px;
+    font-weight:700;
+    color: #363958;
+}
+.nav-bar a{
+    text-decoration: none;
+    font-weight:700;
+    font-size: 16px;
+    color : black;
+    font-family: 'Poppins', sans-serif;
+    float : right;
+    padding : 20px;
+}
+.nav-bar li{
+    list-style: none;
+}
+.nav-bar{
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-bottom: 80px;
+}
+.name-highlighter{
+    color :#FF8367;
+}
+body p{
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 40px;
+    color: #3E3E3E;
+    font-size :20px;
+}
+.link-button{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    font-weight : 700;
+    font-size :16px;
+    background-image: linear-gradient(45deg,mediumvioletred,deeppink);
+    padding: 18px 50px;
+    border-radius: 5px;
+    color: white;
+}
+.half-width{
+    width: 45%;
+    padding-left: 4%;
+    float : left;
+}
+.half-width img{
+    width: 80%;
+}
+section{
+    height: 500px;
+    padding-bottom : 100px;
+}
+.project-area{
+    height: 1000px;
+    background-color: #F8F9FC;
+}
+.project-area h2{
+    padding: 5%;
+    text-align: center;
+    color: #363958;
+}
+#name-highlighter{
+    color : #F46060;
+}
+
+.single-project img{
+    width: 100%;
+}
+.single-project{
+    height: 450px;
+    width: 29%;
+    background-color: white;
+    box-shadow:8px 8px 80px gray;
+    border-radius: 20px;
+    padding: 2%;
+    margin: 20px;
+}
+.one-third-width{
+    margin-left: 8%;
+    margin-right: 8%;
+    display: flex;
+}
+.single-project p{
+    color: #6C6C6C;
+    font-weight: 700;
+}
+
