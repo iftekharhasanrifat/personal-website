@@ -43,7 +43,7 @@ h3{
     margin-right: 8%;
     padding-bottom: 80px;
 }
-.name-highlighter{
+.orange-highlighter{
     color :#FF8367;
 }
 body p{
@@ -59,7 +59,7 @@ body p{
     font-size :16px;
     background-image: linear-gradient(45deg,mediumvioletred,deeppink);
     padding: 18px 50px;
-    border-radius: 5px;
+    border-radius: 10px;
     color: white;
 }
 .half-width{
@@ -108,11 +108,57 @@ section{
     color: #6C6C6C;
     font-weight: 700;
 }
+
+.exp-area{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+#exp-heading{
+    text-align: center;
+}
+.exp-area p{
+    padding-right: 10%;
+}
+.exp-area img{
+    width: 80%;
+}
+#exp-box{
+    height: 450px;
+    border-radius: 10px;
+    box-shadow:20px 20px 50px dimgray;
+}
 .bottom-section{
+    height: 200px;
     padding-top: 150px;
     margin-left: 25%;
     margin-right: 25%;
 }
 .bottom-section img{
-    width: 100%;
+    position: absolute;
+    width: 50%;
+}
+.bottom-section h1{
+    float: left;
+    padding: 5%;
+    position: relative;
+    color: white;
+    font-weight: normal;
+}
+.bottom-section a{
+    margin:10%;
+    position: relative;
+    float: right;
+}
+footer{
+    text-align: center;
+}
+footer p{
+    font-size:25px;
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    padding-bottom: 0;
+}
+footer img{
+    margin-left: 1%;
+    width: 2%;
 }
