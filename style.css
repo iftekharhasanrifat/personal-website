@@ -108,4 +108,11 @@ section{
     color: #6C6C6C;
     font-weight: 700;
 }
-
+.bottom-section{
+    padding-top: 150px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.bottom-section img{
+    width: 100%;
+}
